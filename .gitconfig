@@ -1,0 +1,5 @@
+[credential "https://gitlab.com"]
+	provider = generic
+[user]
+	email = santhushajanana@gmail.com
+	name = Santhusha
